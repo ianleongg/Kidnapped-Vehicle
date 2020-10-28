@@ -28,11 +28,12 @@ The goals / steps of this project are the following:
 - Below is the result of the localization process through the particle filter:
 
 ![alt text][image1]
-[Full video](./Images_forReadMe/particlefilter.mp4)
+
+- [Full video](./Images_forReadMe/particlefilter.mp4)
 
 - **Accuracy**: The particle filter localized vehicle position and yaw to within the values specified in the parameters `max_translation_error` and `max_yaw_error` in [src/main.cpp](./src/main.cpp).
 
-2. **Performance**: The particle filter completed execution within the time of 100 seconds.
+- **Performance**: The particle filter completed execution within the time of 100 seconds.
 
 ### Repo contained
 
